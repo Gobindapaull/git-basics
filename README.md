@@ -20,5 +20,31 @@ git help
 
 git help commit
 
+                                                          // create repository
+
+pwd = current path
+
+cd ~ = home directory
+
+cd .. = back to one directory
+
+ls = list 
+
+git init = start git project
+
+                                                          // commit
+
+
+
+git add .
+
+git commit -m "first commit"
+
+
+
+
+
+
+
 
 
