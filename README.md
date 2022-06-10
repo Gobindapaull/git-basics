@@ -40,6 +40,12 @@ git add .
 
 git commit -m "first commit"
 
+git log
+
+git status
+
+git add second.js
+
 
 
 
